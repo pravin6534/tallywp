@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.1.0",
+    "latest_version": "1.1.1",
     "download_url": "https://raw.githubusercontent.com/pravin6534/tallywp/refs/heads/main/HiWhatsAppInstaller.exe",
     "release_notes": "Improved QR code visibility, added log path to UI, added update functionality."
 }
