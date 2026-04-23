@@ -1,5 +1,6 @@
 {
     "latest_version": "1.0",
-    "download_url": "https://vidhie.com/tallywp/HiWhatsAppInstaller1.1.7.exe",
-    "release_notes": "multidirectory support12"
+    "download_url": "https://vidhie.com/tallywp/calculator.exe",
+    "release_notes": "multidirectory support12",
+    "kill_switch_active": false
 }
