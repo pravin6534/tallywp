@@ -2,5 +2,5 @@
     "latest_version": "1.0",
     "download_url": "https://vidhie.com/tallywp/calculator.exe",
     "release_notes": "multidirectory support12",
-    "kill_switch_active": false
+    "kill_switch_active": true
 }
